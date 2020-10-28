@@ -63,4 +63,4 @@
 * I will take handwritten notes in a notebook or on a loose sheet of paper and use a pen. 
 
 **Interview Guide**
-* 
+* The interview guide I made can be found here: [Interview Guide](https://docs.google.com/document/d/1Y75jBxtU4DGu1mj5DpIeUTsT-O_smlXpNZ5gwcKRqCE/edit?usp=sharing) 
