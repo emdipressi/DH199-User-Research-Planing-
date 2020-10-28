@@ -22,7 +22,7 @@ What is(are) the limitation(s) that possibly would be improved with (digital) te
 
 ### Target Users 
 
-What are the characteristics of users? (ex. demographics, preference, expertise) 
+What are the characteristics of users? 
 * Demographics 
   * This project will most likely serve women from the ages of 20-50. The use of power tools and sharp objects are not child friendly, but the later stages of the project, such as painting can be child friendly. It is best to have adult supervision for this project, if children or teens want to complete it. 
 
@@ -32,9 +32,12 @@ What are the characteristics of users? (ex. demographics, preference, expertise)
 * Expertise 
   * If the user is going to use power tools to cut the wood, this project would be recommended for intermediate and advanced users. I think that beginners can complete this project. They might have to take more time learning how to use power tools (which my project will try its hardest to teach and show) or they can use hand tools that have a lower risk of harm. I also think the frame would be simplified for beginners, if they choose. 
 
-Where would the users do that activity? (i.e., context of use)
+Where would the users do that activity? 
+
+* The users would do this activity in their home. Either in a workshop, garage, or outside. 
 
 What would the users do to complete that activity? (e.g., goal, operation, method, action)
+* The user will have the idea that they want to make this specific project and then will search the web or the app store for my app. Once finding the app, the user will read the directions and see if this is the right project instruction for them. If they decide yes, they will look at the materials and tools needed to complete the project and then if they do not already have the necessary tools/items, they will go to the hardware store and buy what they need. Once everything is acquired, the user will follow the step by step instructions and will put the frame together and then will finish/paint the frame, and then finally assemble and insert the cork bulletin board aspect of the project.
 
 
 ### Research Methods 
