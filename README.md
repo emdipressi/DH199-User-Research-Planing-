@@ -39,7 +39,12 @@
 **What would the users do to complete that activity?** 
 * The user will have the idea that they want to make this specific project and then will search the web or the app store for my app. Once finding the app, the user will read the directions and see if this is the right project instruction for them. If they decide yes, they will look at the materials and tools needed to complete the project and then if they do not already have the necessary tools/items, they will go to the hardware store and buy what they need. Once everything is acquired, the user will follow the step by step instructions and will put the frame together and then will finish/paint the frame, and then finally assemble and insert the cork bulletin board aspect of the project.
 
-
 ### Research Methods 
+
+**Interview with direct / passive / participatory observation?** 
+* I will interview my mother, Colleen, with passive observation and possibly my grandfather who is a skilled carpenter. 
+
+* I also have participatory experience in building this project that I can use. 
+
 
 ### Interview Plan 
