@@ -46,6 +46,8 @@
 
 * I also have participatory experience in building this project that I can use. 
 
+* I will also do some outside research on topics such as what grit sandpaper is needed and I may also look at more examples of this frame online and seach YouTube for video ideas. 
+
 
 ### Interview Plan 
 
