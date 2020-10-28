@@ -22,6 +22,21 @@ What is(are) the limitation(s) that possibly would be improved with (digital) te
 
 ### Target Users 
 
+What are the characteristics of users? (ex. demographics, preference, expertise) 
+* Demographics 
+  * This project will most likely serve women from the ages of 20-50. The use of power tools and sharp objects are not child friendly, but the later stages of the project, such as painting can be child friendly. It is best to have adult supervision for this project, if children or teens want to complete it. 
+
+* Preference 
+  * This project has a specific user in mind, one that is a fan of the shabby chic home decor style. The base of the project could work for any style, though, but it is specifically catered to people who like shabby chic items. 
+
+* Expertise 
+  * If the user is going to use power tools to cut the wood, this project would be recommended for intermediate and advanced users. I think that beginners can complete this project. They might have to take more time learning how to use power tools (which my project will try its hardest to teach and show) or they can use hand tools that have a lower risk of harm. I also think the frame would be simplified for beginners, if they choose. 
+
+Where would the users do that activity? (i.e., context of use)
+
+What would the users do to complete that activity? (e.g., goal, operation, method, action)
+
+
 ### Research Methods 
 
 ### Interview Plan 
