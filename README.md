@@ -18,7 +18,7 @@ What is(are) the traditional/current solution(s) to satisfy the needs?
 
 What is(are) the limitation(s) that possibly would be improved with (digital) technology?
 
-*I think one of the main limiting factors is that the user may not understand the written instructions. Through the use of digital tools, we can make and upload pictures of how exactly the end product should look and videos that are a good visual guide of how to properly do each step. Having visuals like this are a good way to measure success and to, hopefully, prevent any injuries that could result from using woodworking tools. 
+* I think one of the main limiting factors is that the user may not understand the written instructions. Through the use of digital tools, we can make and upload pictures of how exactly the end product should look and videos that are a good visual guide of how to properly do each step. Having visuals like this are a good way to measure success and to, hopefully, prevent any injuries that could result from using woodworking tools. 
 
 ### Target Users 
 
