@@ -48,3 +48,12 @@
 
 
 ### Interview Plan 
+
+**Decide where to visit**
+* I will “visit” either using video chat or a phone call. 
+
+**Decide what activities to observe/ what to ask to do** 
+* I will ask about the steps needed to make a project have a shabby chic look.
+* I will ask what are the other tools needed such as sandpaper and masks. 
+* I will ask what are the best tools to use for making a picture frame, what wood is best, the best brands to use. 
+
