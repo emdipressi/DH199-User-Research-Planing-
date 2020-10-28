@@ -59,3 +59,8 @@
 * I will ask what are the other tools needed such as sandpaper and masks. 
 * I will ask what are the best tools to use for making a picture frame, what wood is best, the best brands to use. 
 
+**Decide how to collect user data**
+* I will take handwritten notes in a notebook or on a loose sheet of paper and use a pen. 
+
+**Interview Guide**
+* 
