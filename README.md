@@ -36,7 +36,7 @@ Where would the users do that activity?
 
 * The users would do this activity in their home. Either in a workshop, garage, or outside. 
 
-What would the users do to complete that activity? (e.g., goal, operation, method, action)
+What would the users do to complete that activity? 
 * The user will have the idea that they want to make this specific project and then will search the web or the app store for my app. Once finding the app, the user will read the directions and see if this is the right project instruction for them. If they decide yes, they will look at the materials and tools needed to complete the project and then if they do not already have the necessary tools/items, they will go to the hardware store and buy what they need. Once everything is acquired, the user will follow the step by step instructions and will put the frame together and then will finish/paint the frame, and then finally assemble and insert the cork bulletin board aspect of the project.
 
 
